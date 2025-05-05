@@ -22,7 +22,7 @@
 
 2. **Перейдите в корневую папку проекта**:
    ```bash
-   cd ~/AndroidStudioProjects/TravelDairy_v2
+   cd ~/AndroidStudioProjects/TravelDairy_v3
    ```
 
 3. **Выполните команду сборки**:
